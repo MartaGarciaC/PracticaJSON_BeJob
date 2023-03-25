@@ -1,0 +1,186 @@
+{
+    "supermercados": [
+        {
+        "nombre": "Mercadona",
+        "direccion": "Calle Luna",
+        "geolocalizacion": [
+            "41º24'12.2 N",
+            "2º10'26.5 E"
+        ],
+        "productos": [
+            {
+                "idProducto": 1,
+                "nombre": "Leche",
+                "unidades": 1,
+                "unidadMedida": "L",
+                "precio": 1.29,
+                "periodoVigencia": "2024-03-30",
+                "oferta": false,
+                "adquirido": false
+            },
+            {
+                "idProducto": 2,
+                "nombre": "Pasta",
+                "unidades": 1,
+                "unidadMedida": "Kg",
+                "precio": 2.50,
+                "periodoVigencia": "2023-12-31",
+                "oferta": false,
+                "adquirido": false
+            },
+            {
+                "idProducto": 3,
+                "nombre": "Arroz",
+                "unidades": 1,
+                "unidadMedida": "Kg",
+                "precio": 1.99,
+                "periodoVigencia": "2023-06-01",
+                "oferta": true,
+                "adquirido": false
+            },
+            {
+                "idProducto": 4,
+                "nombre": "Huevos",
+                "unidades": 12,
+                "unidadMedida": "unidades",
+                "precio": 2.99,
+                "periodoVigencia": "2023-06-01",
+                "oferta": false,
+                "adquirido": true
+            },
+            {
+                "idProducto": 5,
+                "nombre": "Pollo",
+                "unidades": 1,
+                "unidadMedida": "Kg",
+                "precio": 4.99,
+                "periodoVigencia": "2023-04-20",
+                "oferta": false,
+                "adquirido": true
+            }
+        ]
+    },
+    {
+        "nombre": "Lidl",
+        "direccion": "Calle Sol",
+        "geolocalizacion": [
+            "41º24'12.2 N",
+            "2º10'26.5 E",
+            "5º15'20.5 S",
+            "1º32'10 O"
+        ],
+        "productos": [
+            {
+                "idProducto": 1,
+                "nombre": "Leche",
+                "unidades": 1,
+                "unidadMedida": "L",
+                "precio": 1.39,
+                "periodoVigencia": "2024-06-12",
+                "oferta": false,
+                "adquirido": false
+            },
+            {
+                "idProducto": 2,
+                "nombre": "Pasta",
+                "unidades": 1,
+                "unidadMedida": "Kg",
+                "precio": 2.45,
+                "periodoVigencia": "2023-12-30",
+                "oferta": true,
+                "adquirido": false
+            },
+            {
+                "idProducto": 3,
+                "nombre": "Arroz",
+                "unidades": 1,
+                "unidadMedida": "Kg",
+                "precio": 1.99,
+                "periodoVigencia": "2023-03-08",
+                "oferta": false,
+                "adquirido": false
+            },
+            {
+                "idProducto": 4,
+                "nombre": "Huevos",
+                "unidades": 12,
+                "unidadMedida": "unidades",
+                "precio": 3.09,
+                "periodoVigencia": "2023-02-18",
+                "oferta": false,
+                "adquirido": true
+            },
+            {
+                "idProducto": 5,
+                "nombre": "Pollo",
+                "unidades": 1,
+                "unidadMedida": "Kg",
+                "precio": 3.99,
+                "periodoVigencia": "2023-09-26",
+                "oferta": false,
+                "adquirido": true
+            }
+        ]
+    },
+    {
+        "nombre": "Carrefour",
+        "direccion": "Calle Tierra",
+        "geolocalizacion": [
+            "49º34'10.2 N",
+            "10º24'11.4 O"
+        ],
+        "productos": [
+            {
+                "idProducto": 1,
+                "nombre": "Leche",
+                "unidades": 1,
+                "unidadMedida": "L",
+                "precio": 1.37,
+                "periodoVigencia": "2024-04-19",
+                "oferta": true,
+                "adquirido": false
+            },
+            {
+                "idProducto": 2,
+                "nombre": "Pasta",
+                "unidades": 1,
+                "unidadMedida": "Kg",
+                "precio": 2.69,
+                "periodoVigencia": "2023-10-20",
+                "oferta": true,
+                "adquirido": false
+            },
+            {
+                "idProducto": 3,
+                "nombre": "Arroz",
+                "unidades": 1,
+                "unidadMedida": "Kg",
+                "precio": 1.59,
+                "periodoVigencia": "2023-10-10",
+                "oferta": true,
+                "adquirido": false
+            },
+            {
+                "idProducto": 4,
+                "nombre": "Huevos",
+                "unidades": 12,
+                "unidadMedida": "unidades",
+                "precio": 2.99,
+                "periodoVigencia": "2023-04-16",
+                "oferta": true,
+                "adquirido": true
+            },
+            {
+                "idProducto": 5,
+                "nombre": "Pollo",
+                "unidades": 1,
+                "unidadMedida": "Kg",
+                "precio": 3.89,
+                "periodoVigencia": "2023-12-12",
+                "oferta": true,
+                "adquirido": true
+            }
+        ]
+    }
+]
+}
